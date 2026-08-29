@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Problem Statement PDF
+Problem Statement.pdf
+
+# Python
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Data files
+*.csv
